@@ -1,0 +1,11 @@
+-IC:\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++
+-IC:\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32
+-IC:\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\backward
+-IC:\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include
+-IC:\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include-fixed
+-IC:\mingw-w64\mingw64\x86_64-w64-mingw32\include
+-ID:\yourwork\sdl2\spacer
+-ID:\SDL2-devel-2.0.14-mingw\SDL2-2.0.14\x86_64-w64-mingw32\include\SDL2
+-ID:\SDL2_image-devel-2.0.5-mingw\SDL2_image-2.0.5\x86_64-w64-mingw32\include\SDL2
+-target
+x86_64-pc-windows-gnu
